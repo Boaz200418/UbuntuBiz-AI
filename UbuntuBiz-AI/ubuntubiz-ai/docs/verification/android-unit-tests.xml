@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="africa.ubuntubiz.ai.GeneratorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-11-05T21:01:53" hostname="8d9cfa75715b" time="0.096">
+  <properties/>
+  <testcase name="quotationUsesExactDecimalArithmetic" classname="africa.ubuntubiz.ai.GeneratorTest" time="0.067"/>
+  <testcase name="reverseGreetingWorks" classname="africa.ubuntubiz.ai.GeneratorTest" time="0.003"/>
+  <testcase name="phrasebookNeverFabricatesUnknownTranslation" classname="africa.ubuntubiz.ai.GeneratorTest" time="0.001"/>
+  <testcase name="missingFounderInputDoesNotGenerate" classname="africa.ubuntubiz.ai.GeneratorTest" time="0.001"/>
+  <testcase name="budgetAddsOnlyEnteredEstimates" classname="africa.ubuntubiz.ai.GeneratorTest" time="0.002"/>
+  <testcase name="storyPreservesTestimonyAndAuthorship" classname="africa.ubuntubiz.ai.GeneratorTest" time="0.018"/>
+  <testcase name="allDocumentsAreMeaningfulAndLabelled" classname="africa.ubuntubiz.ai.GeneratorTest" time="0.002"/>
+  <testcase name="invalidMoneyIsRejected" classname="africa.ubuntubiz.ai.GeneratorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

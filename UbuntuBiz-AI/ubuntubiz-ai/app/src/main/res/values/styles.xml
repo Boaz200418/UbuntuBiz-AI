@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.UbuntuBiz" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#FAF8F1</item>
+        <item name="android:navigationBarColor">#FAF8F1</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#FAF8F1</item>
+    </style>
+    <style name="Theme.UbuntuBiz.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#103E32</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/brand_mark</item>
+        <item name="postSplashScreenTheme">@style/Theme.UbuntuBiz</item>
+    </style>
+</resources>

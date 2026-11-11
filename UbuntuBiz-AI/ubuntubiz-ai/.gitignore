@@ -1,0 +1,17 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+*.jks
+*.keystore
+.env*
+!.env.example
+node_modules/
+.next/
+.terraform/
+*.tfstate*
+*.tfplan
+*.tfvars
+!terraform.tfvars.example
+.DS_Store
