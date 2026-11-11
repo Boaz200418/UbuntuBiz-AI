@@ -1,0 +1,4 @@
+enable_cloud = false
+enable_database = false
+aws_region = "eu-west-1"
+project_name = "ubuntubiz-ai"
